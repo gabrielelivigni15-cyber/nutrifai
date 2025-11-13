@@ -1,0 +1,1 @@
+export default function Alim(){return <h1>Piani Alimentari Admin</h1>}

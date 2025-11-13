@@ -1,0 +1,1 @@
+export default function PU(){return <h1>I miei pagamenti</h1>}

@@ -1,0 +1,1 @@
+export default function UP(){return <h1>Il mio piano alimentare</h1>}

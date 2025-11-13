@@ -1,0 +1,1 @@
+export default function Schede(){return <h1>Schede Admin</h1>}

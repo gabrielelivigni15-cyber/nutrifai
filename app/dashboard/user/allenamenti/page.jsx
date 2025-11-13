@@ -1,0 +1,1 @@
+export default function UA(){return <h1>I miei allenamenti</h1>}

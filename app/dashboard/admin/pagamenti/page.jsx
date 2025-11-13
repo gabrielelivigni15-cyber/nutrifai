@@ -1,0 +1,1 @@
+export default function Paga(){return <h1>Pagamenti Admin</h1>}
